@@ -103,3 +103,4 @@ Content Type Toggle: Switch between Movie and TV Show analysis.
 
 (Screenshot already provided in repository as Netflix analysis snapshot.png)
 It includes all the visual insights described above in a stylish red-black theme, optimized for clarity and storytelling.
+link:![Dashboard Preview]:https://github.com/BangarYB17/Netflix-Dashboard/blob/main/Netflix%20analysis%20snapshot.png.png
